@@ -1,0 +1,33 @@
+h2{
+    font-family: sans-serif
+    
+}
+
+h4{
+    color: red
+
+}
+
+td{
+
+    color: red
+    
+}
+th{
+    color: red
+    
+}
+p{
+    color: red
+    
+}
+
+h1{
+    font-family: monospace
+    
+}
+
+h1[
+    color:nth-last-of-type()
+
+]
